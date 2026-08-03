@@ -15,6 +15,9 @@ interface Jugador {
   foto_url?: string
   fecha_nacimiento?: string
   club_id?: string
+  clubes?: {
+    nombre: string
+  }
   posicion_principal: string
   perfil: string
   altura_cm?: number
@@ -186,7 +189,16 @@ export default function Home() {
     if (!usuario) return
 
     async function obtenerJugadores() {
-      const { data, error } = await supabase.from('jugadores').select('*')
+      // JOIN CON LA TABLA CLUBES PARA OBTENER EL NOMBRE
+      const { data, error } = await supabase
+        .from('jugadores')
+        .select(`
+          *,
+          clubes (
+            nombre
+          )
+        `)
+
       if (error) {
         console.error('Error cargando jugadores:', error)
       } else {
@@ -260,15 +272,16 @@ export default function Home() {
     if (dataPartidos) setInformesPartidos(dataPartidos)
   }
 
+  // Extraer lista de nombres únicos de clubes para el filtro
   const clubesDisponibles = Array.from(
-    new Set(jugadores.map((j) => j.club_id).filter(Boolean))
-  )
+    new Set(jugadores.map((j) => j.clubes?.nombre).filter(Boolean))
+  ) as string[]
 
   const jugadoresFiltrados = jugadores.filter((j) => {
     const nombre = j.nombre_completo || ''
     const pais = j.pais || ''
     const liga = j.liga || ''
-    const club = j.club_id || ''
+    const club = j.clubes?.nombre || ''
     const posicion = j.posicion_principal || ''
     const perfil = j.perfil || ''
 
@@ -306,7 +319,7 @@ export default function Home() {
         .from('jugadores')
         .update(datosPayload)
         .eq('id', idJugadorEditando)
-        .select()
+        .select(`*, clubes(nombre)`)
 
       if (error) {
         console.error('Error editando:', error)
@@ -320,7 +333,7 @@ export default function Home() {
       const { data, error } = await supabase
         .from('jugadores')
         .insert([datosPayload])
-        .select()
+        .select(`*, clubes(nombre)`)
 
       if (error) {
         console.error('Error creando jugador:', error)
@@ -947,8 +960,8 @@ export default function Home() {
                       className="bg-transparent w-full text-xs text-slate-200 focus:outline-none py-1"
                     >
                       <option value="" className="bg-slate-900">Todos los Clubes</option>
-                      {clubesDisponibles.map((club) => (
-                        <option key={club} value={club} className="bg-slate-900">{club}</option>
+                      {clubesDisponibles.map((clubNombre) => (
+                        <option key={clubNombre} value={clubNombre} className="bg-slate-900">{clubNombre}</option>
                       ))}
                     </select>
                   </div>
@@ -1021,7 +1034,7 @@ export default function Home() {
                           <div className="space-y-2.5 text-sm text-slate-400 border-t border-slate-800/80 pt-4 mb-6">
                             <div className="flex justify-between">
                               <span className="text-slate-500">Club:</span>
-                              <span className="text-slate-200 font-medium">{jugador.club_id || 'Libre'}</span>
+                              <span className="text-slate-200 font-medium">{jugador.clubes?.nombre || 'Sin club'}</span>
                             </div>
                             <div className="flex justify-between">
                               <span className="text-slate-500">Liga / País:</span>
@@ -1157,7 +1170,7 @@ export default function Home() {
                   </div>
                   <h2 className="text-3xl font-black text-white">{jugadorSeleccionado.nombre_completo}</h2>
                   <p className="text-slate-400 text-sm mt-1">
-                    {jugadorSeleccionado.club_id || 'Libre'} — {jugadorSeleccionado.liga || 'Promocional Amateur'} ({jugadorSeleccionado.pais || 'Argentina'})
+                    {jugadorSeleccionado.clubes?.nombre || 'Sin club'} — {jugadorSeleccionado.liga || 'Promocional Amateur'} ({jugadorSeleccionado.pais || 'Argentina'})
                   </p>
                 </div>
 
@@ -1275,13 +1288,13 @@ export default function Home() {
 
                   <div className="grid grid-cols-2 gap-3">
                     <div>
-                      <label className="block text-xs font-semibold text-slate-400 mb-1">Club Actual</label>
+                      <label className="block text-xs font-semibold text-slate-400 mb-1">ID del Club Actual</label>
                       <input
                         type="text"
                         value={nuevoJugador.club_id}
                         onChange={(e) => setNuevoJugador({ ...nuevoJugador, club_id: e.target.value })}
                         className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
-                        placeholder="Ej: San Lorenzo"
+                        placeholder="UUID del club"
                       />
                     </div>
 
