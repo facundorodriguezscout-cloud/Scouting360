@@ -1,0 +1,6689 @@
+[
+  {
+    "nombre_equipo": "Social Atlético Televisión",
+    "zona": "Torneo Promocional Amateur, Zona A 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Santiago Artero",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matias Gómez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Navarrete",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jonathan Piersigilli",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Emiliano Migueles",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Pablo Aguirre",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leandro Barros",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Brandon Mansilla",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Rastelli",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Uriel Segura",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Christopher Carracedo",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Galo Castelluccio",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ezequiel Solis",
+        "edad": null,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ian Contti",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gabriel Cáceres",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentín Vidal",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Pablo Gómez",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jonathan Garay",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ignacio Guiglioni",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Torrez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Patricio Gomez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leonel Ramírez",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Maximiliano López",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Demayo",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Suárez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Castillo",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tamir Maldonado",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alan Martínez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alex Fernández",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Laureano Puyol",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nahuel Espínola Sanabria",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentino Acosta",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Basualto",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Ambrosio",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Eduardo Vallejos",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Pagliari",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Francisco Arce",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Martínez",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Melian",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Leguizamón",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nahuel Gramajo",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Martín Mesilla",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Telechea",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bautista Uviedo",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Esteban Ojeda",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Club Náutico Hacoaj",
+    "zona": "Torneo Promocional Amateur, Zona A 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Valentino Suaya",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Kirzner",
+        "edad": 25,
+        "altura_cm": 183,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Salmun",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Regueira Mansinho",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Szvalb",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Manuel Isersky",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Baldoma",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Liniado",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Roger Rojas",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Felipe Raggio",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ariel Trajman",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Benjamín Schmitt",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Saroka",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Leonson",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Lief",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tiago Szewkies",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Saroka",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Hernán Schvarzman",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Goldstein",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Leibovich",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Manuel Zalcman",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Baredes",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Darío Feinsilber",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Sebastián Feld",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Rubiera",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Diego Solarte",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Izzo",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Busso",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Gorenstein",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Hamra",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jack Guelman",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Jenik",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Gauna",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gastón Cohen",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Iván Gutman",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Filarent",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentino Gutman",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joan Maleh",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Diego Schor",
+        "edad": 28,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Isersky",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Enrique Cohen",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Emanuel Friedman",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Noah Goldfarb",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dan Abramovich",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Andjell Tobal",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Eitan Ryba",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dylan Giercowski",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jorge Villalba",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Deportivo Metalurgico",
+    "zona": "Torneo Promocional Amateur, Zona A 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Elian Luca",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Eric Gimenez Garay",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Cruz Gallo",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Néstor González",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dylan Montecinos",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Montes",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Palacio",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gabriel Luque",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Domínguez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentino Cozza",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Francisco Garrido",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jerónimo Higuaín",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Acosta",
+        "edad": 24,
+        "altura_cm": 180,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Maximiliano Ballester",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alexis Dalul",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Sires Arce",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leandro De Robertis",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Nahuel Robin",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ariel Valenzuela",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno López",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matias Ojeda",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "David Paparello",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Zamorano",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Martín Zapata",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Varela",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tobías Sotelo",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Migueles",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tobías Schmit",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Belatti",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leandro Agustin Paredes",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Quiroz",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mario Mendieta Benítez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gustavo Bronstrup",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jonas Palavecino",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Hector Villagra",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Manuel Masdeu",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Brian Rodríguez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Carlos Ispizua",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Roman Duarte",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tiziano Morales",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Aldeco",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ramiro Valentin Lopez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Diego Zacarías",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jonathan Salvatierra",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Martín Zgoda",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Defensores de Glew",
+    "zona": "Torneo Promocional Amateur, Zona A 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Federico Cano",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Brites",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Maximiliano Cassinelli",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Francisco Capria",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Fernández",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentino Ruiz Castillo",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Román Trejo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Patricio Canteros",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Francisco",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gerlym Díaz Tordecilla",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Bolivia"
+      },
+      {
+        "nombre_completo": "Rolando Ortiz Villordo",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Andrés Romano",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jerónimo Valles",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Luque",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Germán Crivaro",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ezequiel Nicolas Espíndola",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Axel Martínez",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Artaza",
+        "edad": 28,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luca Rocha",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Rodríguez",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Silvio Del Canto",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Isaías Ezequiel  Pérez",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leandro Colque",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leonel Moreira",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Salega",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Scacheri",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Román Capalbo",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alcides Centurión Salinas",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Camilo Gil",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Morales",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Ojeda",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Martín Ponce",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tobías Ristagno",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Misael Chávez López",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Pablo Chaile",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Braynner Daza Payares",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bautista Menéndez",
+        "edad": 16,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alex Pérez Caballero",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno Robles",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Maximiliano Taborda",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Vergara",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Segovia",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Pla",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Fabricio Martínez",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Mayan",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Emiliano Biondic",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Roberto Galeano",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Guillermón",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luca Souto",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Arrabito",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Sacha Pizarro",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gustavo Romero",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Sebastián Alcaraz",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Darío Giménez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jean Franco Piacenza",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Yair Ramírez",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Iván Frelier",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Villalba",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Rodrigo Lemos",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Camacho",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Delabarba",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marcos Álvarez",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Estrella de Berisso",
+    "zona": "Torneo Promocional Amateur, Zona A 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Luciano Dedomingo",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Brandon Morales",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Emir Cejas",
+        "edad": 27,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Roy Ramos",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leandro Gutiérrez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Martínez",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Julián Pérez",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Rastelli",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ramiro Scognamillo",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago García",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Navarro",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Samir Torres",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Risculese",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Amadeo Morales",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Candado",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juanse Fidel",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Felipe Mischenko",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Retamozo",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Sales",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Martín Aguilera",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Brandon Gauto",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Francisco Villalba Urlinaga",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alexander Arias",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Arias",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Wenceslao Cari Cubilla",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Díaz",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno Fogolini",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jeremías Leguiza",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Enzo Marinucci",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Montenegro",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Nahuel Rodríguez",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Francisco Sánchez",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alan Servin Larrea",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Simón Vidondo",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Villoldo",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ulises Romo",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Brian Gómez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Martín Videla",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jeremías Marcoff",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tiziano Arias González",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Stefanov",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Ibañez",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Acuña",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Saavedra",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santino Biagini",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rocco Nuccetelli",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Barneix",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bautista Correa",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alejandro Nabanqueri",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Christian Sanjiau",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Pilat",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jeremias Tourn",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Enzo Grasso",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Caetano Donoso",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alexis Thomas",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rafael Arboleda Chila",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentino Mena Di Luca",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Prychodko",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ciro Busto González",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Ignacio Gerardi",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Benítez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Deportivo Provincial",
+    "zona": "Torneo Promocional Amateur, Zona A 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Diego Bustos",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luca Gabriel Rusconi",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Baez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Mendoza",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agostino Villani",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Varela",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lukas González",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Braian Bentos",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno Cuello",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentín Cobran",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alessio Gatti",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "David Caporaletti",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Carabajal",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joel Villalba",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Neyen Allendes",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jairo Aquino",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Joel Barraza",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mauro Bellido",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Benítez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alejo Campos",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Gaito",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Gómez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marcos Lucero",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Marciro",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alan Martínez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bautista Micciullo",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Miño",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "José Ignacio Roldán",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Santana",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leonardo Sosa",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Villordo",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Asurmendi",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Clavellino",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tobías Contreras",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentino Banegas",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Martín Ayastuy",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Antoñana",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Francisco Sandez",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Julio César Merlini",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Felipe Robaldi",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ticiano Fernández",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Onetto",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Javier Medina",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nahuel Carracedo",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Cirone",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ignacio García",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Javier Giménez Baroni",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Gómez",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Gurruchaga",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Daniel Reina",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Sapaya",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marcos Díaz",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Miri",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jesús Calaidis",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mauro Medina",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thomas Arburua",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Pablo Campos",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ignacio Roldán",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ryan Barral",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Aron Cerone",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Club Atlético Pilar",
+    "zona": "Torneo Promocional Amateur, Zona A 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Gerardo Sotelo",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Vallejos",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Santeusanio",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Osmar Negri Fernandez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Julián Olivera",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Cristian Ortega",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Migliore",
+        "edad": 23,
+        "altura_cm": 175,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Romano",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Fernández",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luka Trumino",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Cattaneo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Palpacelli",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Ramirez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jorge Sosa",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Chaves",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Almang",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ulises Cantero Herrera",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Santiago Maldonado",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Castillo",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Di Landro",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Miguel Pereyra",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lázaro Vargas",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Demian Lugo",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Diego Miranda",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dylan Coronel",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Suárez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Fabián Benítez",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Martín Martino",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Enzo Chaves",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nahuel Martínez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Pacheco",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thomas Alu Rodriguez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Romero",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nelson Portillo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Pablo Arredondo",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ulices Muchewicz",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Borelli",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Elías Carisimo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Demian Charras",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico De Luca",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Brian Moreira",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Arnaldo Rosales",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Zúccaro",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Fabrizio Brandan",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Axel Chirino",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alan Giménez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Maidana",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Catarino",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Domaine",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno Todarello",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Francisco Pocetti",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Tavarnie",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "José Padilla",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Formento",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gustavo Zapata",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "CSD Juventud de Bernal",
+    "zona": "Torneo Promocional Amateur, Zona A 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Ulises Velázquez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Maritato",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Ariel Godoy",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Diego Hernández Ceja",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jhonatan Alarcón Barroso",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Cáceres",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nahuel Gómez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Malm Green",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leandro Emanuel Martínez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Elián Muñoz",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Pablo Velázquez Martelli",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Iván Nieto Tobalina",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Vargas Salinas",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Fabrizio Di Renzo",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Díaz",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gabriel Clavería",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Quinteros",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gabriel Alexis Martínez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Pedro Amarilla",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Quimey Arrigo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Barraza",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Benavidez",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Duarte",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Gallardo",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Gerez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Enzo González",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Ledesma",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Macedo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Meaurio",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jeremías Molina",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Ignacio Torres",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Antivero",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ignacio Briggs",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alexis Alegre",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Abimelec Vera Núñez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gabriel Sanjuan Espinosa",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Pérez Tello",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Di Grappa",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Thomas Báez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Hugo Ramírez Mendoza",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marcos Magagnini",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marcos Albet",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Axel Ríos",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leandro Barrera",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Pablo Cardoso",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Cores",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Sebastián Díaz",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tobías Iribarne",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Pastor",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Pereyra",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Carlucci",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Díaz",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dylan Núñez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Brayan Duran Díaz",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ángel Hernández Ramírez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Núcleos",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Mezquita",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Gómez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Giménez Moran",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Jose Salinas",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Fabrizio García",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Barrancas UMET FC",
+    "zona": "Torneo Promocional Amateur, Zona B 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Dylan Salas",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santino Moro",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Ignacio Mitre",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Petrone",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luca Ferrucci",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Brandon Maciel",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Maximiliano Domínguez Cespedes",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Arredondo",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Julián Grosjean",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Iván Leguizamón",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Miguel Agustín Robles",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Burgueño",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marcos Figueredo",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Iván González Vera",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Machado",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Miguel Sotelo Sarabia",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Chaiman",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Cristian Moreira",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Luna",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentino Rosi",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Ezequiel González",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Guitian",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luca Luna",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Ignacio Paz",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ioannis Sosa",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Benitez",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ivan Gonzalez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Enzo Gallo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Damián Maciel",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bautista Díaz",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gastón Marquez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco González",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Martín Segon",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Garrido",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Emanuel Castro",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Francisco Sosa",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Sahir Ali-Tas",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Villamayor",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Di Diego",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dilan López",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gastón Leonel Caceres",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alan Gabriel Pazos",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquin Soñora",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Cruz Díaz",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leandro Galvez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mauro Sanchez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Martín Dasso",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Esteban Dilge",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Holz",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Cristian Ojeda Vazquez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Scilingo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Iván Romero",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Moreno",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan David Garay",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín López",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Uribelarrea",
+    "zona": "Torneo Promocional Amateur, Zona B 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Uziel Grillo",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Sebastián Casalderrey",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Axel Nuñez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Vaccaro",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Ramos",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Stéfano Gigena",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dante Corbalan",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Corzo",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Francisco Salas",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Gómez",
+        "edad": 16,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Merlo",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Héctor Fernández Chacón",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marcelo Gutiérrez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ramiro Dorrego",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alexis Bordón",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ariel Martínez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Coronel",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Sebastián Leiva",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Franco",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ramiro Almagro",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dario Khairalla",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mariano Décima",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Cruz Lorenzo",
+        "edad": 23,
+        "altura_cm": 180,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tobías González",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Levy",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Patricio Fernández",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Ríos",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Perea",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Castro",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Córdoba",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Francisco Sotelo",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ezequiel Borsotti",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Domínguez",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Rodríguez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marco Antonio Maidana",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Buenos Aires City",
+    "zona": "Torneo Promocional Amateur, Zona B 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Ezequiel Marassa",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Martínez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Cristian Giménez Sotelo",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nahuel Fraquelli",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Isaías Uriel Quispe",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dylan López",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Axel Viani",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Fabrizio Galano",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Sotelo",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Omar Santacruz",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Fidel Meza",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marcelo Sánchez",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Mulfetti",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tobías Sosa",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Szuchman",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Altamiranda",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Julián Catán",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Cohen",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nahuel Kramer",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Manuel Wassouf",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro González",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Adone",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Silva",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Iván Barraza",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Sosa",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Castillo",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ezequiel Fischetti",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Ignacio Batallan",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Fabricio Medina",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucca Di Biase",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Belgrano de Zárate",
+    "zona": "Torneo Promocional Amateur, Zona B 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Enzo Canale",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Manuel Acutain",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Ariel Castillo",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Soria",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Giovani Chorchilo",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentín Cardozo",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Benjamin Gomez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Pablo Chaparro",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Rivas",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Frete",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno Gutiérrez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Acosta",
+        "edad": 23,
+        "altura_cm": 183,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santino Calderoni",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Canale",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Guillermo Fernández",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Sánchez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Fernando Sosa",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ariel Pedraza",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Canale",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Fernández",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquin Galesio",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Gastañaga",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joan Manuel Romero",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Isaias Giménez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tiago Larrosa",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Domaine",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Garanton",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Melo",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Rosales",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Esteban",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Verdun",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Natanael Castaño",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gonzalo Elias Díaz",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Pablo Alexis Guzman",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Ojuez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Robles",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Luciano Romero",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dante Romero",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jeremías Verdun",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno Díaz Reynoso",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jeremías Mercuri",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Cejas",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ezequiel Alvarez Lino",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Roberto Jausoro",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Manuel Farias",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Baez",
+        "edad": 22,
+        "altura_cm": 182,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Braian Navarro",
+        "edad": 27,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ulises Santillán",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Campagnoni",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Lo Franco",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Grinovero",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alejo Viñas",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Control Orientado",
+    "zona": "Torneo Promocional Amateur, Zona B 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Lucas Pereyro",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luka Biscardi",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Elías Barca",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Ruiz",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno Caterina",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Balthazar Estevanez",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Maximiliano Valles",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Felipe Cobo",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Baez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mauro Rapa",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Cordero",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomas Ignacio Poletto",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ignacio Canzani",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jorge Rivas",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Joaquin Torres",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ian Soler",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Cammi",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Cisterna",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Geremías Fernández",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bautista Herbon",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luka Marinac",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentín Poletti",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jerónimo Roldán",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alejandro Villalba",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Julián Zicarelli",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bautista Delgado",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matias Proud",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Chavez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jonás Aguirre Cabreros",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Benjamín Ferreyra",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Bossio",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santino Crivelli",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Manuel Punta",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Bibiloni",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alan Insaurralde",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Vazquez",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Orgulloso",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Esponda",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thyago Barcos",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Javier Leoni",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Las Mandarinas",
+    "zona": "Torneo Promocional Amateur, Zona B 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Benjamín Gutierrez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Pérez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Ahumada",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marcos Muro",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Oroz",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Aron Reyes",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Testi",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ronaldo Vilchez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alexander Rivero",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alan Duarte Espinola",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Enzo Borraz",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Braian Trinidad",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Román Álvarez",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Dylan Perez",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Nuñez",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gastón Godoy",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alex Ferrari",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Ribeiro",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tobías Villano",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Cabral",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bautista Cameriere",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno Guzmán",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Marquez",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Piñero",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Laureano Ferrari",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Berretta",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bautista Disalvo",
+        "edad": null,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leonardo Gonzalez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Flores",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Leiva",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "FC Ezeiza",
+    "zona": "Torneo Promocional Amateur, Zona B 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Lucas Gallo",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Manzanos",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Adrián Parra",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Emiliano Laudizio",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Axel Montoya",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno Juan Corbalán",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Roy Samir Ramos",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Lizondo",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Pablo Reitano",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Sebastián Kajganich",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago González",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nahuel Ávila",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ian Galván",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Zambrano",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "José Antonio Benítez",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Manuel De Gregorio",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Francisco Matias Gómez",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Horacio Maccio",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gabriel Araujo",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Pedro Lara",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Natanahel Leguizamón",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mario Noguera",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Saravia",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Navarro",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Iván Franco",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Luna",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Manuel Alegre",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Maximiliano Montenegro",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Villordo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alan Quiroz López",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Diego Martino",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Manuel Zaracho",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Viera Díaz",
+        "edad": 26,
+        "altura_cm": 180,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alex Barraza",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Diego Gorgieff",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Sebastian Rodríguez",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alexis Colman",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Deleón",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Luciano Aguilar",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nahuel Santillán",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Segovia",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Enzo Gauna",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Sequeira",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alan Galván",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Braian Alegre",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ivo Regules",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Gomez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Alumni Los Hornos",
+    "zona": "Torneo Promocional Amateur, Zona B 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Lisandro Guzmán",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gabriel Barcos",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Cardozo",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leandro Juárez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Moreno Lara",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Sánchez",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Maximiliano Machuca",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Jonathan Ruíz Díaz",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Bianchini",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leonel Villafañe",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Roberto Larrea",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lucas Peñaloza",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Areco",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Benjamín Figueroa",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Lobos",
+        "edad": 19,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bautista Marín",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Bruno Medina",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Uriel Quintana",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santino Valentini",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Marcos Roa Ortigoza",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joan Duarte",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alejo Escubilla",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Alfonsín",
+        "edad": 20,
+        "altura_cm": 181,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Gino Anania",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ramiro Fernández Molina",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Carlos Maciel",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Emiliano Pérez Piccoli",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Rodrigo Peretz",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Nahuel",
+        "edad": 17,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tiziano Genazzi",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Celis",
+        "edad": 18,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Román Duarte",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Andrés Escubilla",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Carlos Rodríguez Mesias",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Carlos Rodríguez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Busto",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leonel Nievas",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Cristian Coretti",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lionel Díaz Gómez",
+        "edad": null,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Sandoval",
+        "edad": 16,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  },
+  {
+    "nombre_equipo": "Everton La Plata",
+    "zona": "Torneo Promocional Amateur, Zona B 2026",
+    "liga": "Promocional Amateur",
+    "jugadores": [
+      {
+        "nombre_completo": "Valentín Cosentino",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ramiro Bolech",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Gauna",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Mateo Lojo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Zuccarelli",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thomas García",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco González",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joel Alvarez",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Delantero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Donato Amigucci",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Nicolás Furlan",
+        "edad": 22,
+        "altura_cm": 173,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Benz",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Pablo Princi",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Cono Leonardo Cancro",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentino Zuccotti",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Caro",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Matías Raitelli",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Kevin Noroña",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ramiro Vismara",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Julián Zocco",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Laureano Quinteros",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thiago Fernandez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Germán Castro",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ignacio Cerda",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leandro Correa",
+        "edad": 24,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lautaro Flores",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Iván Travella",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ignacio Ventancor",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentín Hiriart",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Ciro Cejas",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Lisandro Reyes",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Aquino Mendez",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Mediocampista",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Cruz Bruzzoni",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Felipe Irigoitia",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "León Bruzzoni",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santino De Luca",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Valentino Medina",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Juan Cruz Ramos",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Agustín Berra",
+        "edad": 28,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Iñaki Aguilar",
+        "edad": 28,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Damian Picón",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Francisco Bertolotto",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Carranza",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Leonel Felipe",
+        "edad": 20,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Thomas Ricciuto",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Geremías Villegas",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Franco Visconti",
+        "edad": 22,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Tomás Ibáñez",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Federico Luque",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Aneas Eijo",
+        "edad": 23,
+        "altura_cm": null,
+        "posicion": "Defensor",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Santiago Rene Sosa",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Facundo Di Sibio",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Arraras",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Fermín Magnasco",
+        "edad": 26,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Alejo Tinto",
+        "edad": 25,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      },
+      {
+        "nombre_completo": "Joaquín Luque",
+        "edad": 21,
+        "altura_cm": null,
+        "posicion": "Arquero",
+        "pie_habil": "No especificado",
+        "nacionalidad": "Argentina"
+      }
+    ]
+  }
+]

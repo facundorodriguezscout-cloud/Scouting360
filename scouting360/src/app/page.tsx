@@ -1,11 +1,11 @@
 'use client'
 
-import Dashboard from '@/components/Dashboard';
+import Dashboard from '@/components/Dashboard'
 import { useEffect, useState } from 'react'
 import { supabase } from '@/lib/supabase'
 import {
   Search, Filter, UserCheck, Shield, Flame, Activity,
-  Globe, Trophy, Building2, X, Video, FileText, BarChart3, Award, LogOut, Check, Star, ArrowRight, Plus
+  Globe, Trophy, Building2, X, Video, FileText, BarChart3, Award, LogOut, Check, Star, ArrowRight, Calendar
 } from 'lucide-react'
 import { ResponsiveContainer, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar } from 'recharts'
 
@@ -26,6 +26,26 @@ interface Jugador {
   created_at?: string
 }
 
+interface EventoLineaTiempo {
+  minuto: string
+  equipo: string
+  evento: string
+  jugador: string
+  detalle?: string
+}
+
+interface JugadorDestacado {
+  nombre: string
+  posicion: string
+  evaluacion: string
+  general: number
+  fisico: number
+  tecnico: number
+  tactico: number
+  potencia: number
+  [key: string]: any
+}
+
 const datosRadarEjemplo = [
   { atributo: 'Técnica', A: 82 },
   { atributo: 'Físico', A: 75 },
@@ -36,12 +56,25 @@ const datosRadarEjemplo = [
 ]
 
 export default function Home() {
+  // --- HELPER PARA CALCULAR EDAD ---
+  const calcularEdad = (fechaNacimiento?: string) => {
+    if (!fechaNacimiento) return 'No registrada'
+    const hoy = new Date()
+    const cumple = new Date(fechaNacimiento)
+    let edad = hoy.getFullYear() - cumple.getFullYear()
+    const m = hoy.getMonth() - cumple.getMonth()
+    if (m < 0 || (m === 0 && hoy.getDate() < cumple.getDate())) {
+      edad--
+    }
+    return isNaN(edad) ? 'No registrada' : `${edad} años`
+  }
+
   // --- ESTADOS DE AUTENTICACIÓN Y ROLES ---
   const [usuario, setUsuario] = useState<any>(null)
   const [rolUsuario, setRolUsuario] = useState<'admin' | 'colaborador' | 'suscriptor'>('suscriptor')
   const [cargandoAuth, setCargandoAuth] = useState(true)
 
-  // Modos de pantalla publica: 'landing' (portada) | 'login' | 'registro'
+  // Modos de pantalla pública: 'landing' (portada) | 'login' | 'registro'
   const [modoPublico, setModoPublico] = useState<'landing' | 'login' | 'registro'>('landing')
   const [planSeleccionado, setPlanSeleccionado] = useState<string | null>(null)
 
@@ -52,7 +85,7 @@ export default function Home() {
   const [procesandoAuth, setProcesandoAuth] = useState(false)
 
   // --- ESTADOS PRINCIPALES DE LA APLICACIÓN ---
-  const [vistaActual, setVistaActual] = useState<'dashboard' | 'jugadores'>('dashboard');
+  const [vistaActual, setVistaActual] = useState<'dashboard' | 'jugadores'>('dashboard')
   const [jugadores, setJugadores] = useState<Jugador[]>([])
   const [cargando, setCargando] = useState(true)
   const [jugadorSeleccionado, setJugadorSeleccionado] = useState<Jugador | null>(null)
@@ -74,6 +107,8 @@ export default function Home() {
     perfil: 'Diestro',
     altura_cm: '',
     peso_kg: '',
+    fecha_nacimiento: '',
+    club_id: '',
     proyeccion: 'Primera Nacional',
     pais: 'Argentina',
     liga: 'Promocional Amateur'
@@ -87,11 +122,11 @@ export default function Home() {
   const [informesJugadores, setInformesJugadores] = useState<any[]>([])
   const [informesPartidos, setInformesPartidos] = useState<any[]>([])
 
-  const [jugadoresDestacados, setJugadoresDestacados] = useState<any[]>([
+  const [jugadoresDestacados, setJugadoresDestacados] = useState<JugadorDestacado[]>([
     { nombre: '', posicion: '', evaluacion: '', general: 5, fisico: 5, tecnico: 5, tactico: 5, potencia: 5 }
   ])
 
-  const [lineaTiempo, setLineaTiempo] = useState<any[]>([
+  const [lineaTiempo, setLineaTiempo] = useState<EventoLineaTiempo[]>([
     { minuto: '', equipo: 'Local', evento: 'Gol', jugador: '', detalle: '' }
   ])
 
@@ -104,6 +139,8 @@ export default function Home() {
       perfil: 'Diestro',
       altura_cm: '',
       peso_kg: '',
+      fecha_nacimiento: '',
+      club_id: '',
       proyeccion: 'Primera Nacional',
       pais: 'Argentina',
       liga: 'Promocional Amateur'
@@ -257,6 +294,8 @@ export default function Home() {
       perfil: nuevoJugador.perfil,
       altura_cm: nuevoJugador.altura_cm ? Number(nuevoJugador.altura_cm) : null,
       peso_kg: nuevoJugador.peso_kg ? Number(nuevoJugador.peso_kg) : null,
+      fecha_nacimiento: nuevoJugador.fecha_nacimiento || null,
+      club_id: nuevoJugador.club_id || null,
       proyeccion: nuevoJugador.proyeccion,
       pais: nuevoJugador.pais,
       liga: nuevoJugador.liga
@@ -298,6 +337,8 @@ export default function Home() {
       perfil: 'Diestro',
       altura_cm: '',
       peso_kg: '',
+      fecha_nacimiento: '',
+      club_id: '',
       proyeccion: 'Primera Nacional',
       pais: 'Argentina',
       liga: 'Promocional Amateur'
@@ -328,6 +369,8 @@ export default function Home() {
       perfil: j.perfil || 'Diestro',
       altura_cm: j.altura_cm ? String(j.altura_cm) : '',
       peso_kg: j.peso_kg ? String(j.peso_kg) : '',
+      fecha_nacimiento: j.fecha_nacimiento || '',
+      club_id: j.club_id || '',
       proyeccion: j.proyeccion || 'Primera Nacional',
       pais: j.pais || 'Argentina',
       liga: j.liga || 'Promocional Amateur'
@@ -357,15 +400,16 @@ export default function Home() {
 
   const guardarAnalisisPartido = async (
     informePartidoId: string,
-    lineaTiempoEventos: Array<{ minuto: string; evento: string; jugadorId: string }>
+    lineaTiempoEventos: EventoLineaTiempo[]
   ) => {
     if (!lineaTiempoEventos || lineaTiempoEventos.length === 0) return
 
     const eventosPayload = lineaTiempoEventos
-      .filter(e => e.jugadorId && e.evento)
+      .filter(e => e.jugador && e.evento)
       .map(e => ({
         informe_partido_id: informePartidoId,
-        jugador_id: e.jugadorId,
+        jugador_nombre: e.jugador,
+        equipo: e.equipo,
         minuto: e.minuto ? parseInt(e.minuto, 10) : null,
         tipo_evento: e.evento
       }))
@@ -376,13 +420,7 @@ export default function Home() {
 
     if (error) {
       console.error('Error insertando eventos de la línea de tiempo:', error)
-      return
-    }
-
-    const jugadoresUnicos = Array.from(new Set(eventosPayload.map(e => e.jugador_id)))
-
-    for (const jId of jugadoresUnicos) {
-      await supabase.rpc('recalcular_estadisticas_jugador', { p_jugador_id: jId })
+      throw error
     }
   }
 
@@ -1131,8 +1169,16 @@ export default function Home() {
 
                     <div className="bg-slate-950 border border-slate-800/80 rounded-xl p-4 space-y-3 text-sm">
                       <div className="flex justify-between border-b border-slate-800/60 pb-2">
+                        <span className="text-slate-500">Fecha de Nacimiento</span>
+                        <span className="text-slate-200 font-semibold">{jugadorSeleccionado.fecha_nacimiento || 'No registrada'}</span>
+                      </div>
+                      <div className="flex justify-between border-b border-slate-800/60 pb-2">
+                        <span className="text-slate-500">Edad</span>
+                        <span className="text-slate-200 font-semibold">{calcularEdad(jugadorSeleccionado.fecha_nacimiento)}</span>
+                      </div>
+                      <div className="flex justify-between border-b border-slate-800/60 pb-2">
                         <span className="text-slate-500">Altura / Peso</span>
-                        <span className="text-slate-200 font-semibold">{jugadorSeleccionado.altura_cm} cm / {jugadorSeleccionado.peso_kg} kg</span>
+                        <span className="text-slate-200 font-semibold">{jugadorSeleccionado.altura_cm ? `${jugadorSeleccionado.altura_cm} cm` : '-'} / {jugadorSeleccionado.peso_kg ? `${jugadorSeleccionado.peso_kg} kg` : '-'}</span>
                       </div>
                       <div className="flex justify-between border-b border-slate-800/60 pb-2">
                         <span className="text-slate-500">Pierna Hábil</span>
@@ -1199,7 +1245,7 @@ export default function Home() {
           {/* MODAL / PANEL DE CARGA DE DATOS DEL JUGADOR (ADMIN) */}
           {modalCrearAbierto && rolUsuario === 'admin' && (
             <div className="fixed inset-0 bg-slate-950/80 backdrop-blur-sm flex items-center justify-center p-4 z-50">
-              <div className="bg-slate-900 border border-slate-800 w-full max-w-lg rounded-2xl shadow-2xl p-6 relative">
+              <div className="bg-slate-900 border border-slate-800 w-full max-w-lg rounded-2xl shadow-2xl p-6 relative max-h-[90vh] overflow-y-auto">
                 <button
                   onClick={() => {
                     setModalCrearAbierto(false)
@@ -1225,6 +1271,29 @@ export default function Home() {
                       className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
                       placeholder="Ej: Lautaro Martínez"
                     />
+                  </div>
+
+                  <div className="grid grid-cols-2 gap-3">
+                    <div>
+                      <label className="block text-xs font-semibold text-slate-400 mb-1">Club Actual</label>
+                      <input
+                        type="text"
+                        value={nuevoJugador.club_id}
+                        onChange={(e) => setNuevoJugador({ ...nuevoJugador, club_id: e.target.value })}
+                        className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
+                        placeholder="Ej: San Lorenzo"
+                      />
+                    </div>
+
+                    <div>
+                      <label className="block text-xs font-semibold text-slate-400 mb-1">Fecha de Nacimiento</label>
+                      <input
+                        type="date"
+                        value={nuevoJugador.fecha_nacimiento}
+                        onChange={(e) => setNuevoJugador({ ...nuevoJugador, fecha_nacimiento: e.target.value })}
+                        className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-emerald-500"
+                      />
+                    </div>
                   </div>
 
                   <div className="grid grid-cols-2 gap-3">
@@ -1703,5 +1772,5 @@ export default function Home() {
         </div>
       )}
     </main>
-  );
+  )
 }
