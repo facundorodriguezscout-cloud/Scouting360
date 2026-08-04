@@ -99,6 +99,8 @@ export default function Home() {
   const [filtroClub, setFiltroClub] = useState('')
   const [filtroPosicion, setFiltroPosicion] = useState('')
   const [filtroPerfil, setFiltroPerfil] = useState('')
+  const [filtroGolesMin, setFiltroGolesMin] = useState('')
+  const [filtroAsistenciasMin, setFiltroAsistenciasMin] = useState('')
 
   const [modalCrearAbierto, setModalCrearAbierto] = useState(false)
   const [guardando, setGuardando] = useState(false)
@@ -295,7 +297,12 @@ setCargando(false)
     const coincidePosicion = filtroPosicion === '' || posicion.toLowerCase().includes(filtroPosicion.toLowerCase())
     const coincidePerfil = filtroPerfil === '' || perfil.toLowerCase() === filtroPerfil.toLowerCase()
 
-    return coincideNombre && coincidePais && coincideLiga && coincideClub && coincidePosicion && coincidePerfil
+    const goles = j.goles || 0
+    const asistencias = j.asistencias || 0
+    const coincideGoles = filtroGolesMin === '' || goles >= Number(filtroGolesMin)
+    const coincideAsistencias = filtroAsistenciasMin === '' || asistencias >= Number(filtroAsistenciasMin)
+
+    return coincideNombre && coincidePais && coincideLiga && coincideClub && coincidePosicion && coincidePerfil && coincideGoles && coincideAsistencias
   })
 
   const guardarNuevoJugador = async (e: React.FormEvent) => {
@@ -999,6 +1006,30 @@ setCargando(false)
                       <option value="Ambidextro" className="bg-slate-900">Ambidextro</option>
                     </select>
                   </div>
+<div className="flex items-center gap-2 bg-slate-950 border border-slate-800 rounded-lg px-3 py-1.5">
+                    <Filter className="w-4 h-4 text-slate-400 shrink-0" />
+                    <input
+                      type="number"
+                      min="0"
+                      placeholder="Goles mínimos"
+                      value={filtroGolesMin}
+                      onChange={(e) => setFiltroGolesMin(e.target.value)}
+                      className="bg-transparent w-full text-xs text-slate-200 focus:outline-none py-1 placeholder-slate-500"
+                    />
+                  </div>
+
+                  <div className="flex items-center gap-2 bg-slate-950 border border-slate-800 rounded-lg px-3 py-1.5">
+                    <Filter className="w-4 h-4 text-slate-400 shrink-0" />
+                    <input
+                      type="number"
+                      min="0"
+                      placeholder="Asistencias mínimas"
+                      value={filtroAsistenciasMin}
+                      onChange={(e) => setFiltroAsistenciasMin(e.target.value)}
+                      className="bg-transparent w-full text-xs text-slate-200 focus:outline-none py-1 placeholder-slate-500"
+                    />
+                  </div>
+
                 </div>
               </section>
 
