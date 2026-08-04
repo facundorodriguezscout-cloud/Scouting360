@@ -20,21 +20,6 @@ export default function Dashboard({ rol, onNavegar, onAbrirNuevoInforme }: Dashb
           </p>
         </div>
 
-        {/* Solo Admin y Colaborador ven este botón rápido */}
-        {rol !== 'suscriptor' && (
-          <button 
-            onClick={() => {
-              if (onAbrirNuevoInforme) {
-                onAbrirNuevoInforme();
-              } else {
-                onNavegar('nuevo-informe');
-              }
-            }}
-            className="bg-emerald-600 hover:bg-emerald-500 text-white font-semibold px-4 py-2 rounded-xl text-sm transition cursor-pointer"
-          >
-            + Cargar Nuevo Informe
-          </button>
-        )}
       </div>
 
       {/* Tarjetas de Métricas (KPIs) */}
