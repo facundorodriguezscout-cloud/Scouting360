@@ -198,13 +198,16 @@ export default function Home() {
             nombre
           )
         `)
+        console.log("DATA:", data)
+console.log("ERROR:", error)
 
       if (error) {
         console.error('Error cargando jugadores:', error)
       } else {
         setJugadores(data || [])
       }
-      setCargando(false)
+      
+setCargando(false)
     }
 
     obtenerJugadores()
@@ -1181,10 +1184,7 @@ export default function Home() {
                     </h3>
 
                     <div className="bg-slate-950 border border-slate-800/80 rounded-xl p-4 space-y-3 text-sm">
-                      <div className="flex justify-between border-b border-slate-800/60 pb-2">
-                        <span className="text-slate-500">Fecha de Nacimiento</span>
-                        <span className="text-slate-200 font-semibold">{jugadorSeleccionado.fecha_nacimiento || 'No registrada'}</span>
-                      </div>
+                      
                       <div className="flex justify-between border-b border-slate-800/60 pb-2">
                         <span className="text-slate-500">Edad</span>
                         <span className="text-slate-200 font-semibold">{calcularEdad(jugadorSeleccionado.fecha_nacimiento)}</span>
