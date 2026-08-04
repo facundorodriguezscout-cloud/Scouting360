@@ -90,10 +90,12 @@ export default function Home() {
   const [procesandoAuth, setProcesandoAuth] = useState(false)
 
   // --- ESTADOS PRINCIPALES DE LA APLICACIÓN ---
-  const [vistaActual, setVistaActual] = useState<'dashboard' | 'jugadores'>('dashboard')
+  const [vistaActual, setVistaActual] = useState<'dashboard' | 'jugadores' | 'informes'>('dashboard')
   const [jugadores, setJugadores] = useState<Jugador[]>([])
   const [cargando, setCargando] = useState(true)
   const [jugadorSeleccionado, setJugadorSeleccionado] = useState<Jugador | null>(null)
+  const [informesPendientes, setInformesPendientes] = useState<any[]>([])
+  const [cargandoInformes, setCargandoInformes] = useState(false)
 
   const [busqueda, setBusqueda] = useState('')
   const [filtroPais, setFiltroPais] = useState('')
@@ -815,6 +817,16 @@ setCargando(false)
           >
             Jugadores
           </button>
+        
+
+          {rolUsuario === 'admin' && (
+            <button
+              onClick={() => setVistaActual('informes')}
+              className={`px-4 py-2 rounded-lg font-bold text-sm ${vistaActual === 'informes' ? 'bg-emerald-600 text-white' : 'bg-slate-800 text-slate-400'}`}
+            >
+              Informes Pendientes
+            </button>
+          )}
         </div>
 
         {/* Cierre de Sesión e Info del Usuario */}
