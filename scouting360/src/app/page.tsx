@@ -26,6 +26,8 @@ interface Jugador {
   proyeccion?: string
   pais?: string
   liga?: string
+  goles?: number
+  asistencias?: number
   created_at?: string
 }
 
