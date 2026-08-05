@@ -281,6 +281,21 @@ setCargando(false)
     if (dataPartidos) setInformesPartidos(dataPartidos)
   }
 
+  const actualizarEstadoInforme = async (id: string, nuevoEstado: 'aprobado' | 'rechazado') => {
+    const { error } = await supabase
+      .from('informes_jugadores')
+      .update({ estado: nuevoEstado })
+      .eq('id', id)
+
+    if (error) {
+      alert('Error al actualizar el informe: ' + error.message)
+    } else {
+      cargarInformes()
+    }
+  }
+
+  const informesPendientesJugadores = informesJugadores.filter((inf) => inf.estado === 'pendiente')
+
   // Extraer lista de nombres únicos de clubes para el filtro
   const clubesDisponibles = Array.from(
     new Set(jugadores.map((j) => j.clubes?.nombre).filter(Boolean))
@@ -1826,7 +1841,66 @@ setCargando(false)
                 </form>
               </div>
             </div>
+         )}
+        </div>
+      )}
+
+      {/* VISTA: INFORMES PENDIENTES (SOLO ADMIN) */}
+      {vistaActual === 'informes' && rolUsuario === 'admin' && (
+        <div className="max-w-5xl mx-auto space-y-4">
+          <header className="mb-6 border-b border-slate-800 pb-4">
+            <h1 className="text-2xl font-black text-white">Informes Pendientes de Revisión</h1>
+            <p className="text-slate-400 text-sm">{informesPendientesJugadores.length} informe(s) esperando aprobación</p>
+          </header>
+
+          {informesPendientesJugadores.length === 0 && (
+            <p className="text-slate-500 text-sm">No hay informes pendientes por ahora.</p>
           )}
+
+          {informesPendientesJugadores.map((informe) => (
+            <div key={informe.id} className="bg-slate-900 border border-slate-800 rounded-xl p-5 space-y-3">
+              <div className="flex justify-between items-start">
+                <div>
+                  <h3 className="font-bold text-white text-lg">{informe.jugadores?.nombre_completo || 'Jugador sin nombre'}</h3>
+                  <p className="text-xs text-slate-400">Partido observado: {informe.partido_observado || '-'}</p>
+                  <p className="text-xs text-slate-500">Cargado por: {informe.colaborador_nombre || '-'}</p>
+                </div>
+                <span className="bg-amber-500/10 text-amber-400 border border-amber-500/20 text-xs px-2 py-0.5 rounded font-medium">
+                  Pendiente
+                </span>
+              </div>
+
+              <div className="grid grid-cols-2 sm:grid-cols-5 gap-2 text-center text-xs">
+                <div className="bg-slate-950 rounded p-2"><p className="text-slate-500">Duelos</p><p className="text-emerald-400 font-bold">{informe.duelos ?? '-'}</p></div>
+                <div className="bg-slate-950 rounded p-2"><p className="text-slate-500">Pases</p><p className="text-emerald-400 font-bold">{informe.pases ?? '-'}</p></div>
+                <div className="bg-slate-950 rounded p-2"><p className="text-slate-500">Ubicación</p><p className="text-emerald-400 font-bold">{informe.ubicacion ?? '-'}</p></div>
+                <div className="bg-slate-950 rounded p-2"><p className="text-slate-500">Físico</p><p className="text-emerald-400 font-bold">{informe.fisico ?? '-'}</p></div>
+                <div className="bg-slate-950 rounded p-2"><p className="text-slate-500">Marca</p><p className="text-emerald-400 font-bold">{informe.marca ?? '-'}</p></div>
+              </div>
+
+              <div className="text-xs space-y-1">
+                <p><span className="text-slate-500">Fortalezas:</span> <span className="text-slate-300">{informe.fortalezas || '-'}</span></p>
+                <p><span className="text-slate-500">Debilidades:</span> <span className="text-slate-300">{informe.debilidades || '-'}</span></p>
+                <p><span className="text-slate-500">Actitud:</span> <span className="text-slate-300">{informe.actitud || '-'}</span></p>
+                <p><span className="text-slate-500">Recomendación:</span> <span className="text-slate-300">{informe.recomendacion || '-'}</span></p>
+              </div>
+
+              <div className="flex gap-3 pt-2">
+                <button
+                  onClick={() => actualizarEstadoInforme(informe.id, 'aprobado')}
+                  className="flex-1 bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-2 rounded-lg text-sm transition"
+                >
+                  Aprobar
+                </button>
+                <button
+                  onClick={() => actualizarEstadoInforme(informe.id, 'rechazado')}
+                  className="flex-1 bg-red-600/20 hover:bg-red-600/30 text-red-400 border border-red-600/30 font-bold py-2 rounded-lg text-sm transition"
+                >
+                  Rechazar
+                </button>
+              </div>
+            </div>
+          ))}
         </div>
       )}
     </main>
