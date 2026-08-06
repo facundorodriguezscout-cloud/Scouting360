@@ -90,7 +90,7 @@ export default function Home() {
   const [procesandoAuth, setProcesandoAuth] = useState(false)
 
   // --- ESTADOS PRINCIPALES DE LA APLICACIÓN ---
-  const [vistaActual, setVistaActual] = useState<'dashboard' | 'jugadores' | 'informes'>('dashboard')
+  const [vistaActual, setVistaActual] = useState<'dashboard' | 'jugadores' | 'informes' | 'cuenta'>('dashboard')
   const [jugadores, setJugadores] = useState<Jugador[]>([])
   const [cargando, setCargando] = useState(true)
   const [jugadorSeleccionado, setJugadorSeleccionado] = useState<Jugador | null>(null)
@@ -107,6 +107,12 @@ export default function Home() {
   const [filtroAsistenciasMin, setFiltroAsistenciasMin] = useState('')
 const [filtroEdadMin, setFiltroEdadMin] = useState('')
   const [filtroEdadMax, setFiltroEdadMax] = useState('')
+  const [paginaActual, setPaginaActual] = useState(1)
+  const jugadoresPorPagina = 30
+  const [nuevaPassword, setNuevaPassword] = useState('')
+  const [confirmarPassword, setConfirmarPassword] = useState('')
+  const [cambiandoPassword, setCambiandoPassword] = useState(false)
+  const [mensajePassword, setMensajePassword] = useState('')
 
   const [modalCrearAbierto, setModalCrearAbierto] = useState(false)
   const [guardando, setGuardando] = useState(false)
@@ -296,6 +302,32 @@ setCargando(false)
     }
   }
 
+  const handleCambiarPassword = async (e: React.FormEvent) => {
+    e.preventDefault()
+    setMensajePassword('')
+
+    if (nuevaPassword.length < 6) {
+      setMensajePassword('La contraseña debe tener al menos 6 caracteres.')
+      return
+    }
+    if (nuevaPassword !== confirmarPassword) {
+      setMensajePassword('Las contraseñas no coinciden.')
+      return
+    }
+
+    setCambiandoPassword(true)
+    const { error } = await supabase.auth.updateUser({ password: nuevaPassword })
+    setCambiandoPassword(false)
+
+    if (error) {
+      setMensajePassword('Error: ' + error.message)
+    } else {
+      setMensajePassword('¡Contraseña actualizada con éxito!')
+      setNuevaPassword('')
+      setConfirmarPassword('')
+    }
+  }
+
   const informesPendientesJugadores = informesJugadores.filter((inf) => inf.estado === 'pendiente')
 
   // Extraer lista de nombres únicos de clubes para el filtro
@@ -336,6 +368,11 @@ setCargando(false)
 
     return coincideNombre && coincidePais && coincideLiga && coincideClub && coincidePosicion && coincidePerfil && coincideGoles && coincideAsistencias && coincideEdadMin && coincideEdadMax
   })
+  const totalPaginas = Math.ceil(jugadoresFiltrados.length / jugadoresPorPagina)
+  const jugadoresPaginados = jugadoresFiltrados.slice(
+    (paginaActual - 1) * jugadoresPorPagina,
+    paginaActual * jugadoresPorPagina
+  )
 
   const guardarNuevoJugador = async (e: React.FormEvent) => {
     e.preventDefault()
@@ -792,6 +829,12 @@ setCargando(false)
 
         {/* Cierre de Sesión e Info del Usuario */}
         <div className="flex items-center gap-3">
+          <button
+            onClick={() => setVistaActual('cuenta')}
+            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-colors ${vistaActual === 'cuenta' ? 'bg-emerald-600 text-white' : 'bg-slate-800 text-slate-400 hover:text-white'}`}
+          >
+            Mi Cuenta
+          </button>
           <span className="text-xs bg-slate-900 border border-slate-800 px-3 py-1.5 rounded-lg text-slate-300 font-mono hidden sm:inline-block">
             {usuario.email} (<strong className="text-emerald-400 uppercase">{rolUsuario}</strong>)
           </span>
@@ -1043,7 +1086,7 @@ setCargando(false)
                   </div>
                 ) : (
                   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                    {jugadoresFiltrados.map((jugador) => (
+                    {jugadoresPaginados.map((jugador) => (
                       <div
                         key={jugador.id}
                         className="bg-slate-900 border border-slate-800 rounded-xl p-6 hover:border-emerald-500/50 transition-all duration-300 flex flex-col justify-between group"
@@ -1870,6 +1913,62 @@ setCargando(false)
               </div>
             </div>
           ))}
+        </div>
+      )}
+      {/* VISTA: MI CUENTA (TODOS LOS ROLES) */}
+      {vistaActual === 'cuenta' && (
+        <div className="max-w-md mx-auto space-y-6">
+          <header className="mb-6 border-b border-slate-800 pb-4">
+            <h1 className="text-2xl font-black text-white">Mi Cuenta</h1>
+            <p className="text-slate-400 text-sm">{usuario.email}</p>
+          </header>
+
+          <div className="bg-slate-900 border border-slate-800 rounded-xl p-6 space-y-4">
+            <h2 className="text-sm font-bold text-white uppercase tracking-wider">Cambiar Contraseña</h2>
+            <p className="text-xs text-slate-400">Elegí una contraseña que puedas recordar fácilmente.</p>
+
+            <form onSubmit={handleCambiarPassword} className="space-y-4">
+              <div>
+                <label className="block text-slate-400 mb-1 text-xs">Nueva contraseña</label>
+                <input
+                  type="password"
+                  value={nuevaPassword}
+                  onChange={(e) => setNuevaPassword(e.target.value)}
+                  minLength={6}
+                  required
+                  className="w-full bg-slate-950 border border-slate-800 rounded-lg p-2.5 text-white text-sm"
+                  placeholder="Mínimo 6 caracteres"
+                />
+              </div>
+
+              <div>
+                <label className="block text-slate-400 mb-1 text-xs">Confirmar nueva contraseña</label>
+                <input
+                  type="password"
+                  value={confirmarPassword}
+                  onChange={(e) => setConfirmarPassword(e.target.value)}
+                  minLength={6}
+                  required
+                  className="w-full bg-slate-950 border border-slate-800 rounded-lg p-2.5 text-white text-sm"
+                  placeholder="Repetí la contraseña"
+                />
+              </div>
+
+              {mensajePassword && (
+                <p className={`text-xs ${mensajePassword.includes('éxito') ? 'text-emerald-400' : 'text-red-400'}`}>
+                  {mensajePassword}
+                </p>
+              )}
+
+              <button
+                type="submit"
+                disabled={cambiandoPassword}
+                className="w-full bg-emerald-600 hover:bg-emerald-500 disabled:opacity-50 text-white font-bold py-2.5 rounded-lg text-sm transition"
+              >
+                {cambiandoPassword ? 'Guardando...' : 'Guardar Contraseña'}
+              </button>
+            </form>
+          </div>
         </div>
       )}
     </main>
