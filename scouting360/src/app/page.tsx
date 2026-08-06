@@ -646,85 +646,18 @@ setCargando(false)
             </section>
 
             {/* PLANES DE SUSCRIPCIÓN */}
-            <section id="planes" className="max-w-6xl mx-auto px-6 space-y-8 scroll-mt-24">
-              <div className="text-center space-y-2">
-                <h2 className="text-3xl font-black text-white">Elegí el plan perfecto para vos</h2>
-                <p className="text-xs text-slate-400">Acceso ilimitado a todas las fichas, informes semanales y radar táctico.</p>
+            <section id="planes" className="max-w-3xl mx-auto px-6 space-y-6 scroll-mt-24 text-center">
+              <div className="space-y-2">
+                <h2 className="text-3xl font-black text-white">¿Querés acceso a la plataforma?</h2>
+                <p className="text-xs text-slate-400">Escribinos y te contamos los planes disponibles para vos, tu club o tu agencia.</p>
               </div>
-
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                {/* Plan 1 */}
-                <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 flex flex-col justify-between space-y-6 hover:border-slate-700 transition-colors">
-                  <div className="space-y-4">
-                    <h3 className="text-lg font-bold text-white">Plan Mensual</h3>
-                    <p className="text-slate-400 text-xs">Ideal para scouts independientes y entusiastas del análisis.</p>
-                    <div className="text-3xl font-black text-white">USD $15 <span className="text-xs text-slate-500 font-normal">/mes</span></div>
-                    <ul className="space-y-2.5 text-xs text-slate-300 pt-2 border-t border-slate-800">
-                      <li className="flex items-center gap-2"><Check className="w-4 h-4 text-emerald-400" /> Acceso a Base Completa de Jugadores</li>
-                      <li className="flex items-center gap-2"><Check className="w-4 h-4 text-emerald-400" /> Lectura de Informes de Partidos</li>
-                      <li className="flex items-center gap-2"><Check className="w-4 h-4 text-emerald-400" /> Visualización de Radares y Métricas</li>
-                    </ul>
-                  </div>
-                  <button
-                    onClick={() => {
-                      setPlanSeleccionado('Plan Mensual')
-                      setModoPublico('registro')
-                    }}
-                    className="w-full bg-slate-800 hover:bg-slate-700 text-white font-bold py-2.5 rounded-xl text-xs transition-colors"
-                  >
-                    Suscribirse
-                  </button>
-                </div>
-
-                {/* Plan 2 - Destacado */}
-                <div className="bg-slate-900 border-2 border-emerald-500 rounded-2xl p-6 flex flex-col justify-between space-y-6 relative shadow-xl shadow-emerald-500/10">
-                  <span className="absolute -top-3 left-1/2 -translate-x-1/2 bg-emerald-500 text-slate-950 font-black text-[10px] px-3 py-0.5 rounded-full uppercase tracking-wider">
-                    Más Popular
-                  </span>
-                  <div className="space-y-4">
-                    <h3 className="text-lg font-bold text-white">Plan Trimestral</h3>
-                    <p className="text-slate-400 text-xs">Ahorrá abonando cada 3 meses con acceso total asegurado.</p>
-                    <div className="text-3xl font-black text-emerald-400">USD $38 <span className="text-xs text-slate-500 font-normal">/trimestre</span></div>
-                    <ul className="space-y-2.5 text-xs text-slate-300 pt-2 border-t border-slate-800">
-                      <li className="flex items-center gap-2"><Check className="w-4 h-4 text-emerald-400" /> Todo lo del Plan Mensual</li>
-                      <li className="flex items-center gap-2"><Check className="w-4 h-4 text-emerald-400" /> Notificaciones de Nuevos Reportes</li>
-                      <li className="flex items-center gap-2"><Check className="w-4 h-4 text-emerald-400" /> Descarga de Fichas en PDF</li>
-                    </ul>
-                  </div>
-                  <button
-                    onClick={() => {
-                      setPlanSeleccionado('Plan Trimestral')
-                      setModoPublico('registro')
-                    }}
-                    className="w-full bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-bold py-2.5 rounded-xl text-xs transition-colors"
-                  >
-                    Obtener Plan Trimestral
-                  </button>
-                </div>
-
-                {/* Plan 3 */}
-                <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 flex flex-col justify-between space-y-6 hover:border-slate-700 transition-colors">
-                  <div className="space-y-4">
-                    <h3 className="text-lg font-bold text-white">Clubes / Agencias</h3>
-                    <p className="text-slate-400 text-xs">Acceso institucional con múltiples usuarios y solicitud de scouting a pedido.</p>
-                    <div className="text-3xl font-black text-white">Consultar <span className="text-xs text-slate-500 font-normal">/personalizado</span></div>
-                    <ul className="space-y-2.5 text-xs text-slate-300 pt-2 border-t border-slate-800">
-                      <li className="flex items-center gap-2"><Check className="w-4 h-4 text-emerald-400" /> Cuentas múltiples para staff</li>
-                      <li className="flex items-center gap-2"><Check className="w-4 h-4 text-emerald-400" /> Encargo de partidos/jugadores específicos</li>
-                      <li className="flex items-center gap-2"><Check className="w-4 h-4 text-emerald-400" /> Soporte personalizado 24/7</li>
-                    </ul>
-                  </div>
-                  <button
-                    onClick={() => {
-                      setPlanSeleccionado('Clubes y Agencias')
-                      setModoPublico('registro')
-                    }}
-                    className="w-full bg-slate-800 hover:bg-slate-700 text-white font-bold py-2.5 rounded-xl text-xs transition-colors"
-                  >
-                    Contactar
-                  </button>
-                </div>
-              </div>
+              <a  href="https://wa.me/5491162199660?text=Hola!%20Quiero%20consultar%20sobre%20los%20planes%20de%20Scouting%20360"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-bold py-3 px-8 rounded-xl text-sm transition-colors"
+              >
+                Contactar
+              </a>
             </section>
           </div>
         )}
